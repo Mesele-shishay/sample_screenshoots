@@ -1,4 +1,4 @@
-# **Mesele Shishay - GitHub Projects**
+# **Mesele Shishay**
 
 Welcome to my GitHub repository! I am a passionate **Full-Stack Developer** with expertise in **Prototyping**, **3D Modeling**, **Web Development**, and **Computer-Aided Design**. With a strong foundation in software engineering, I create innovative, user-friendly solutions that solve real-world problems.
 
